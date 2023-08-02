@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Fastest Fourier Transform in the Rocky Mountains!");
 }
